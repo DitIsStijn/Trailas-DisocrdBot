@@ -1,6 +1,5 @@
 const botConfig = require("./botconfig.json");
 const Discord = require("discord.js");
-const ms = require("ms");
 const levelfile = require("./data/level.json");
 
 const fs = require("fs");
